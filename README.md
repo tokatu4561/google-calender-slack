@@ -1,3 +1,7 @@
+# リポジトリについて
+google カレンダーの 予定を メンション付きで slack にリマインドする
+cdkの練習
+
 # Welcome to your CDK TypeScript project
 
 This is a blank project for CDK development with TypeScript.
